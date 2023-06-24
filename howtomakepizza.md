@@ -5,7 +5,8 @@ levadura
 sal
 aceite
 queso mozzarela
-peperoni
+pina
+jamon
 tomate 
 ajo
 cebolla
@@ -35,6 +36,7 @@ engrasar el molde
 colocar la masa en el molde
 hechar la salsa la masa
 colocar el queso mozzarela
+colocar pina
 colocar peperoni
 luego llevar al horno por 25 minutos hasta que dore
 porcionar
