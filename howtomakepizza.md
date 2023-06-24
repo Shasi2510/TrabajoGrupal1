@@ -7,7 +7,7 @@ aceite
 queso mozzarela
 pina
 jamon
-tomate 
+tomate
 ajo
 cebolla
 pimienta
@@ -37,7 +37,7 @@ colocar la masa en el molde
 hechar la salsa la masa
 colocar el queso mozzarela
 colocar pina
-colocar peperoni
+colocar jamon
 luego llevar al horno por 25 minutos hasta que dore
 porcionar
 disfrutar con tu soda favorita
