@@ -38,4 +38,4 @@ colocar el queso mozzarela
 colocar peperoni
 luego llevar al horno por 25 minutos hasta que dore
 porcionar
-disfrutar
+disfrutar con tu soda favorita
